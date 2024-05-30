@@ -56,7 +56,7 @@ and comapare their performances stats.
 ![App Screenshot](https://i.ibb.co/hWvR1tx/Screenshot-2024-05-30-191234.png)
 
 
-![App Screenshot](https://i.ibb.co/hgxKVQs/Screenshot-2024-05-30-191403.png)
+![App Screenshot](https://i.ibb.co/hZ28Bbw/Screenshot-2024-05-30-191403.png)
 
 
 ![App Screenshot](https://i.ibb.co/jTpRjP4/Screenshot-2024-05-30-191455.png)
